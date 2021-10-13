@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<head>
+<title>div demo</title>
+<style>
+.a{
+  background-color:red;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.b{
+  background-color:yellow;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.c{
+  background-color:green;
+  height:100px;
+  width:25%;
+  float:left;
+  }
+.d{
+  background-color:black;
+  height:100px;
+  width:25%;
+  float:left;
+  }
+.e{
+  background-color:blue;
+  height:100px;
+  width:25%;
+  float:left;
+  }
+.f{
+  background-color:purple;
+  height:100px;
+  width:25%;
+  float:left;
+  }
+.g{
+  background-color:yellow;
+  height:100px;
+  width:70%;
+  float:left;
+  }
+.h{
+  background-color:red;
+  height:100px;
+  width:30%;
+  float:left;
+  }
+.i{
+  background-color:black;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.i1{
+  background-color:red;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.i2{
+  background-color:black;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.j{
+  background-color:blue;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.j1{
+  background-color:blue;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.j2{
+  background-color:purple;
+  height:100px;
+  width:50%;
+  float:left;
+  }
+.x{
+  background-color:yellow;
+  height:300px;
+  width:40%;
+  float:left;
+  }
+.x1{
+  background-color:blue;
+  height:150px;
+  width:100%;
+  float:left;
+  }
+.x11{
+  background-color:blue;
+  height:150px;
+  width:50%;
+  float:left;
+  }
+.x111{
+  background-color:black;
+  height:80px;
+  width:74%;
+  float:left;
+  margin:38px;
+  }
+.x12{
+  background-color:yellow;
+  height:150px;
+  width:50%;
+  float:left;
+  }
+  .x122{
+  background-color:black;
+  height:80px;
+  width:74%;
+  float:left;
+  margin:38px;
+  }
+.x2{
+  background-color:purple;
+  height:150px;
+  width:100%;
+  float:left;
+  }
+.x21{
+  background-color:yellow;
+  height:150px;
+  width:50%;
+  float:left;
+  }
+.x211{
+  background-color:black;
+  height:80px;
+  width:74%;
+  float:left;
+  margin:38px;
+  }
+.x22{
+  background-color:blue;
+  height:150px;
+  width:50%;
+  float:left;
+  }
+  .x222{
+  background-color:black;
+  height:80px;
+  width:74%;
+  float:left;
+  margin:38px;
+  }
+.y{
+  background-color:red;
+  height:300px;
+  width:60%;
+  float:left;
+  }
+
+</style>
+</head>
+<body>
+<!------------------div demo---------------->
+<!-----------------row 1st------------------>
+<div class="a"></div>
+<div class="b"></div>
+<!------------------row 2nd---------------->
+<div class="c"></div>
+<div class="d"></div>
+<div class="e"></div>
+<div class="f"></div>
+<!------------------row 3rd---------------->
+<div class="g"></div>
+<div class="h"></div>
+<!------------------row 4th---------------->
+<div class="i">
+<div class="i1"></div>
+<div class="i2"></div>
+</div>
+<div class="j">
+<div class="j1"></div>
+<div class="j2"></div>
+</div>
+<!------------------row 5th---------------->
+<div class="x">
+   <div class="x1">
+      <div class="x11">
+	  <div class="x111"></div>
+	  </div>
+	  <div class="x12">
+	  <div class="x122"></div>
+	  </div>
+   </div>
+   <div class="x2">
+      <div class="x21">
+	  <div class="x211"></div>
+	  </div>
+      <div class="x22">
+	   <div class="x222"></div>	 
+	  </div>	  
+   </div>
+</div>
+<div class="y"></div>
+
+
+</body>
+</html>
+
